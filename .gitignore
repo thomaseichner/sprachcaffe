@@ -1,0 +1,4 @@
+config/*.yml
+accessKeys.csv
+*.png
+temp.py
