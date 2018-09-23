@@ -1,0 +1,4 @@
+botointerface:
+  aws_access_key_id: 'KEYID'
+  aws_secret_access_key: 'secretKEY'
+  region: 'aws-region'
